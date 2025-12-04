@@ -1,11 +1,11 @@
-## 👩🏻‍💻 Elton Barbosa
+## 🗿 Elton Barbosa
 
 **`Desenvolvedor FullStack Java`**
 
 Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, estou cursando Engenharia de Software e faço cursos externos para me especializar cada vez mais em tecnologias back-end como Java
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/cinderDesenv?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -88,19 +88,16 @@ Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente, e
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cinderDesenv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinderDesenv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+    <img align="left"
+         alt="Github Stats"
+         heigth="200"
+         style="padding right:18px;"
+         src="https://github-readme-stats.vercel.app/api?username=cinderDesenv&show_icons=true&theme=cobalt&include_all_commits-true&locale-pt-br"
+     />
+    <img
+        align="left"
+        alt="Github Stats"
+        heigth="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinderDesenv&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
 </p>
