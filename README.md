@@ -125,9 +125,7 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 - Java + Spring Boot
 - SQL e boas práticas de banco de dados
 - Arquitetura de software e clean code
-
-<br>
-<br>
+  
 ---
 
 ### 🎯 O que estou buscando:
