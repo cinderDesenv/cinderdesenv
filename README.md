@@ -30,7 +30,6 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 
 ### FRONT END
 
-<br>
 <img 
     align="left" 
     alt="HTML"
@@ -76,7 +75,6 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 
 ### BACK END
 
-<br>
 <img 
     align="left" 
     alt="Java" 
