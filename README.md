@@ -1,30 +1,30 @@
 ## 🗿 Elton Barbosa
 
-**`Desenvolvedor FullStack`**
+**`Fullstack Developer`**
 
-Me chamo Elton Moura Barbosa, tenho 21 anos e sou natural do Acre. Atualmente curso Engenharia de Software e me dedico continuamente ao aprendizado por meio de cursos externos e projetos práticos.
-Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo soluções que gerem impacto real.
+My name is Elton Moura Barbosa, I am 21 years old and I am from Acre. I am currently studying Software Engineering and I am continuously dedicated to learning through external courses and practical projects.
+I seek to evolve as a developer, exploring modern technologies and building solutions that generate real impact.
 
 <p align="left">
     <a href="https://github.com/cinderDesenv?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cinderDesenv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars" 
+            title="Total stars GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/cinderDesenv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/cinderDesenv?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cinderDesenv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/cinderDesenv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages & Technologies
 
 <img 
     align="left" 
@@ -96,14 +96,14 @@ Busco evoluir como desenvolvedor, explorando tecnologias modernas e construindo 
 
 ---
 
-### 📚 Atualmente focado em:
-- Angular e TypeScript
+### 📚 Currently focused on:
+- Angular and TypeScript
 - Java + Spring Boot
-- SQL e boas práticas de banco de dados
-- Arquitetura de software e clean code
+- SQL and best database practices
+- Software architecture and clean code
   
 ---
 
-### 🎯 O que estou buscando:
-- Participar de projetos reais
-- Aperfeiçoar conhecimentos
+### 🎯 What am I looking for:
+- Participating in real projects
+- Improve knowledge
