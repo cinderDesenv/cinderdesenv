@@ -10,14 +10,14 @@ I seek to evolve as a developer, exploring modern technologies and building solu
         <img 
             alt="Total stars" 
             title="Total stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cinderDesenv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/eltoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/eltoDev?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cinderDesenv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/eltoDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
